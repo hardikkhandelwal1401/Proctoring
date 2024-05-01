@@ -1,6 +1,6 @@
-# ProctoAI-MERN
+# ProctoAI
 
-ProctoAI-MERN is an Automated Exam Proctoring System (AEPS) developed with cutting-edge AI-based algorithms for online exams. This comprehensive system is designed to ensure the integrity and security of online examinations. The project leverages technologies such as React.js, Redux, Node.js, and TensorFlow.js to offer a feature-rich exam proctoring solution.
+ProctoAI is an Automated Exam Proctoring System (AEPS) developed with cutting-edge AI-based algorithms for online exams. This comprehensive system is designed to ensure the integrity and security of online examinations. The project leverages technologies such as React.js, Redux, Node.js, and TensorFlow.js to offer a feature-rich exam proctoring solution.
 
 ![ProctoAI-MERN](readme-images/proctoai-mern.jpg)
 
@@ -98,87 +98,12 @@ ProctoAI-MERN utilizes a range of technologies to provide its comprehensive func
 
 - Creation of a unified portal for users to log in, access question papers, open a chat window for communication with the examiner, and upload answer sheets via an integrated scanner within the portal.
 
-## Project Screenshots
-
-### Login Page
-
-- #### Student
-
-![Login Page](readme-images/login-page-student.jpg)
-
-- #### Teacher
-
-![Login Page](readme-images/login-page-teacher.jpg)
-
-### Dashboard
-
-- #### Student
-
-![Student Dashboard](readme-images/student-dashboard.jpg)
-
-- #### Teacher
-
-![Teacher Dashboard](readme-images/teacher-dashboard.jpg)
-
-### Creating Exam Feature
-
-- #### Create Exam
-
-![Create Exam](readme-images/create-exam.jpg)
-
-- #### Success
-
-![Create Exam](readme-images/create-exam-success.jpg)
-
-- #### Create Questions
-
-![Create Questions](readme-images/create-question.jpg)
-
-### Exam Page
-
-![Exam Page](readme-images/exam-page.png)
-
-### Cheating Detection During Exam
-
-- Webcam capture is hidden due to privacy reasons, with a black box covering the video feed.
-
-#### Cell Phone Detection
-
-![Cell Phone Detection](readme-images/cell-phone-detection.png)
-
-#### Prohibited Object Detection
-
-![Prohibited Object Detection](readme-images/prohibited-object-detection.jpg)
-
-#### Face Not Visible Detection
-
-![Cell Phone Detection](readme-images/face-not-visible-detection.jpg)
-
-### Test Page
-
-#### Start
-
-![Test Start](readme-images/test-start.jpg)
-
-#### Submitted
-
-![Test Submitted](readme-images/test-submitted.jpg)
-
-### Cheat Log Dashboard
-
-![Cheat Log Dashboard](readme-images/cheat-log-dashboard.png)
-
-More features and improvements are in development and will be included in future updates.
-
 ## How to Run
 
 To run this project locally, follow these steps:
 
 1. Clone this repository.
 2. Install the required dependencies in both the frontend and backend folders.
-3. Start the server using `npm start` in the backend folder.
+3. Start the server using `npm run dev` in the backend folder.
 4. Start the React app using `npm start` in the frontend folder.
 
-## Contributors
-
-- [Mohd Zubair](https://github.com/mohdzubairshafi)
