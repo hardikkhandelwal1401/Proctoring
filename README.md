@@ -20,8 +20,6 @@ ProctoAI is an Automated Exam Proctoring System (AEPS) developed with cutting-ed
   - [Secure Exam Environment](#secure-exam-environment)
   - [Unified Portal](#unified-portal)
 - [How to Run](#how-to-run)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Tech Stack
 
